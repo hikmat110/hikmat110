@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Senior iOS Engineer · M.Sc. Computer Science · 6+ Years in Fintech & Banking</b><br/>
-  <i>Shipping high-quality mobile products from Tashkent 🇺🇿 · Founder @ <a href="https://arcan.uz">Arcan</a></i>
+  <i>Shipping high-quality mobile products from Tashkent 🇺🇿 · Founder @<a href="https://arcan.uz">Arcan</a></i>
 </p>
 
 <p align="center">
