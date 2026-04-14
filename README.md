@@ -26,7 +26,7 @@
 
 iOS engineer with **6+ years** building production apps used by millions — specializing in **fintech, banking, and consumer mobile**. I care about clean architecture, measurable performance, and apps that just work.
 
-- 🏦 Currently: **iOS Engineer @ Octobank** — analytics engine, Universal Links, security hardening
+- 🏦 **iOS Engineer @ Octobank** — analytics engine, Universal Links, security hardening
 - 💳 Previously: **Payme.uz** — boosted search speed by 70%, cut memory usage by 65%, +12% auth conversion
 - 🌍 Before that: **Accenture (Warsaw)** — 1M+ download travel app, insurance MVP, team of 8
 - 🎓 **M.Sc. Computer Science** — Polish-Japanese Academy of IT, Warsaw
